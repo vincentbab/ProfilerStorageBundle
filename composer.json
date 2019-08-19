@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "symfony/framework-bundle": ">=2.7 <4.0",
+        "symfony/framework-bundle": "^4.0.15",
         "symfony/dependency-injection": ">=2.7 <4.0",
         "symfony/yaml": ">=2.7 <4.0"
     },
